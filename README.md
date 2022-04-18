@@ -5,8 +5,8 @@ Aprenda Bootstrap 5 criando projetos incríveis e responsivos (mobile first), de
 - [x] Seção 1: Introdução
 - [x] Seção 2: Primeiros passos com Bootstrap
 - [x] Seção 3: Criando layouts com Bootstrap
-- [ ] Seção 4: Bootstrap Icons - ícones com Bootstrap
-- [ ] Seção 5: Projeto 1: Art - exposição de artes urbanas
+- [x] Seção 4: Bootstrap Icons - ícones com Bootstrap
+- [x] Seção 5: Projeto 1: Art - exposição de artes urbanas
 - [ ] Seção 6: Elementos de conteúdo
 - [ ] Seção 7: Formulários com Bootstrap
 - [ ] Seção 8: Projeto 2: Tela de login e cadastro
