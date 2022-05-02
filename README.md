@@ -2,16 +2,16 @@
 Aprenda Bootstrap 5 criando projetos incríveis e responsivos (mobile first), desde o absoluto zero até a finalização
 
 ## Conteúdo
-- [x] Seção 1: Introdução
-- [x] Seção 2: Primeiros passos com Bootstrap
-- [x] Seção 3: Criando layouts com Bootstrap
-- [x] Seção 4: Bootstrap Icons - ícones com Bootstrap
-- [x] Seção 5: Projeto 1: Art - exposição de artes urbanas
-- [x] Seção 6: Elementos de conteúdo
-- [x] Seção 7: Formulários com Bootstrap
-- [x] Seção 8: Projeto 2: Tela de login e cadastro
-- [ ] Seção 9: Componentes do Bootstrap
-- [ ] Seção 10: Projeto 3: Exact Time (E-commerce)
+- [x] Seção 01: Introdução
+- [x] Seção 02: Primeiros passos com Bootstrap
+- [x] Seção 03: Criando layouts com Bootstrap
+- [x] Seção 04: Bootstrap Icons - ícones com Bootstrap
+- [x] Seção 05: Projeto 1: Art - exposição de artes urbanas
+- [x] Seção 06: Elementos de conteúdo
+- [x] Seção 07: Formulários com Bootstrap
+- [x] Seção 08: Projeto 2: Tela de login e cadastro
+- [x] Seção 09: Componentes do Bootstrap
+- [x] Seção 10: Projeto 3: Exact Time (E-commerce)
 - [ ] Seção 11: Helpers
 - [ ] Seção 12: Utilities
 - [ ] Seção 13: Fundamentos do HTML
