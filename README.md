@@ -13,7 +13,7 @@ Aprenda Bootstrap 5 criando projetos incríveis e responsivos (mobile first), de
 - [x] Seção 09: Componentes do Bootstrap
 - [x] Seção 10: Projeto 3: Exact Time (E-commerce)
 - [x] Seção 11: Helpers
-- [ ] Seção 12: Utilities
+- [x] Seção 12: Utilities
 - [ ] Seção 13: Fundamentos do HTML
 - [ ] Seção 14: Fundamentos do CSS
 - [ ] Seção 15: Projeto 4: Agência (HTML e CSS puros)
